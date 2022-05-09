@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\bin\Debug\Avaliacao2.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\bin\Debug\Avaliacao2.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\bin\Debug\Avaliacao2.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.exe
+C:\Users\renan\OneDrive\Área de Trabalho\Av2\Avaliacao2\obj\Debug\Avaliacao2.pdb
